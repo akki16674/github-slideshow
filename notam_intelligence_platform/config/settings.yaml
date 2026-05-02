@@ -1,0 +1,3 @@
+app:
+  name: NOTAM Intelligence Platform
+  environment: development
